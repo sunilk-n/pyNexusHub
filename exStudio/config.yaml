@@ -1,0 +1,10 @@
+app:
+  name: "exStudio1"
+  version: "1.0.0"
+  author: "Sunil Kumar Nerella"
+
+job:
+  location: "F:/job"
+
+tools:
+  location: "%USERPROFILE%/tools"
