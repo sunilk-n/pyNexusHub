@@ -1,0 +1,13 @@
+package:
+  name: "studioLibrary" # Name of the package
+  version: "1.0.0" # Version of the package
+  author: "Sunil Kumar Nerella" # Author of the package
+  release_date: "22-02-2024" # Release date of the package
+
+  modules: # Defining the modules to copy in the tools folder
+    python: # Standalone python package files which will be copied to the tools/python folder
+      path: "src"
+    maya: # Maya package files which will be copied to the tools/maya folder, This will be linked to the maya user setup
+      path: "maya"
+    nuke: # Nuke package files which will be copied to the tools/nuke folder, This will be linked to the nuke user setup
+      path: "nuke"

@@ -1,4 +1,4 @@
-# studioPackager
+# Studio Packager
 Studio Packager is a packager for VFX studio for Windows, Linux (Probably for Mac in future).
 
 Generally there were so many tools to maintain the VFX production that can manage the vfx shots. But there is no pipeline setup for the developers in different environments
